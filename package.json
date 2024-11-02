@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "nanoid": "^5.0.8",
+    "react-bootstrap": "^2.10.5",
+    "styled-components": "^6.1.13"
+  }
+}
